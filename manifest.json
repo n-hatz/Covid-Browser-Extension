@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Covid-19 Data",
+    "description": "Covid-19 data dashboard.",
+    "version": "1.0.0",
+    "icons": {
+        "128": "logo_128.png"
+    },
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
